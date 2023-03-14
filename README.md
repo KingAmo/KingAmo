@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **ShangHai Soybean Network Technology Co., Ltd.** 
-- 💬 `react-native`、`react`、`vue`
-- 📫 How to reach me: qs920921@gmail.com
+- 🏫 Education: `HFUT`
+- 🏢 Company: **ShangHai Soybean Network Technology Co., Ltd.**
+- 💻 Skills: `react-native`、`react`、`vue`
+- 📧 Email: `qs920921@gmail.com`
 
