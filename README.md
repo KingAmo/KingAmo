@@ -5,7 +5,7 @@
 
 
 - 🏫 Education: `HFUT`
-- 🏢 Company: **ShangHai Soybean Network Technology Co., Ltd.**
+- 🏢 Company: **Shanghai Soybean Network Technology Co., Ltd.**
 - 💻 Skills: `react-native`、`react`、`vue`
 - 📧 Email: `qs920921@gmail.com`
 
