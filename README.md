@@ -6,4 +6,4 @@
 - 💻 Skills: `react-native`、`react`
 - 📧 Email: `qs920921@gmail.com`
 - 🏫 Education: `HFUT`
-- City: `Shanghai,China`
+- 🌏 City: `Shanghai,China`
