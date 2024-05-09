@@ -3,8 +3,7 @@
 
 ### Hi there 👋
 
-
-- 🏫 Education: `HFUT`
 - 💻 Skills: `react-native`、`react`
 - 📧 Email: `qs920921@gmail.com`
-
+- 🏫 Education: `HFUT`
+- City: `Shanghai,China`
