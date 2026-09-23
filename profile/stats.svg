@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">KingAmo&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 2, Total PRs: 18, Total Issues: 177, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 2, Total PRs: 18, Total Issues: 180, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 198.8311690232935;
+        stroke-dashoffset: 198.81881420565833;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >177</text>
+      >180</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >6</text>
+      >7</text>
     </g>
   </g>
     </svg>
